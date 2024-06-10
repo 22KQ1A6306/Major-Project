@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.fas {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.contact-us {
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
